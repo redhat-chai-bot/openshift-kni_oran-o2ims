@@ -84,5 +84,8 @@
             "/\\.yaml$/",
             "/\\.yml$/"
         ]
-    }
+    },
+    "ignoreDeps": [
+        "quay.io/openshift-kni/oran-o2ims-operator"
+    ]
 }
